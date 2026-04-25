@@ -1,0 +1,17 @@
+# Leonardo Barazza, acse-lb1223
+
+method: grid
+
+parameters:
+  env_id:
+    values: ["Acrobot-v1", "CartPole-v1", "MountainCar-v0", "LunarLander-v2"]
+  agent_mode:
+    values: [0, 1, 2]
+  oscill_freq:
+    values: [0.01]
+  oscill_mu:
+    values: [0.1]
+  oscill_amp:
+    values: [0.05]
+  seed:
+    values: [6, 7, 8]
