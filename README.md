@@ -1,4 +1,4 @@
-This repository contains the code developed for the Independent Research Project as part of the Applied Computational Science and Engineering MSc program at Imperial College London.
+This repository contains the code developed for the Independent Research Project as part of the Applied Computational Science and Engineering MSc program at Imperial College London (Academic Year 2023/2024).
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/70442575-9d02-4b3a-bf2e-1fc509c888e4" alt="LunarLander-v2" />
